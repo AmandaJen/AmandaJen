@@ -1,0 +1,5 @@
+import pandas as pd
+
+df = pd.read_csv(link_planilha)
+
+votos = df["Pokemon"].value_counts()
