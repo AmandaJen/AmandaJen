@@ -92,6 +92,8 @@ https://gist.github.com/rxaviers/7360908
     <p>
       https://forms.gle/kw168HCJofPueXc57
     </p>
+    <!-- POKEMON_POLL_START -->
+    <!-- POKEMON_POLL_END -->
     </div>
 <br>
 </div>
