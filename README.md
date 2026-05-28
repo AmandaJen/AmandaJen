@@ -1,26 +1,29 @@
+<!--
+Para fontes:
+https://lingojam.com/FancyTextGenerator
+https://qaz.wtf/u/convert.cgi
+-->
+
 <body>
   <center>
-<h1 align="center"> Olá Mundo 👋 </h1>
+<h1 align="center"> 𝓞𝓵á 𝓜𝓾𝓷𝓭𝓸 👋 </h1>
 <br>
 <div align="center">
 
  
   <div align="center">
     <a href="https://github.com/AmandaJen">
-      ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmandaJen&theme=github_dark)
-       <!-- PARA QUANDO ARRUMAREM
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaJen&show_icons=true&theme=dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaJen&layout=compact&theme=dark"/>
-    -->
+
+[![](https://raw.githubusercontent.com/AmandaJen/AmandaJen/main/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/AmandaJen/AmandaJen/main/profile-summary-card-output/blue_green/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/AmandaJen/AmandaJen/main/profile-summary-card-output/blue_green/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)   
   </div>
-  
-  
+
 </div>
     <div align="center">
-<!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
       </div>
 <div>
-<h2 align="center"> Sobre mim: </h2>
+<h2 align="center"> :sunglasses: 𝓢𝓸𝓫𝓻𝓮 𝓶𝓲𝓶: </h2>
   <div align="center">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIycmcxOWxndzZzeWYxcWh1ZHJ2cGgzNWhubnlyaXRvd2hvejJibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WWGrmrMykMnja/giphy.gif" 
   width="200" height="250" align="right">
@@ -29,12 +32,12 @@
 <li>
  <b>Nome:</b> Amanda Jen</li>
  <li>
-<b>Estudando:</b> Python, C/C++
+<b>Preferências:</b> Python, C/C++
 <li>
-<b>Linkedin:</b> https://www.linkedin.com/in/amanda-jen-0a180b357/
+<b>LinkedIn:</b> https://www.linkedin.com/in/amanda-jen-0a180b357/
 </li>
 <li>
-<b>Hobbies:</b> Jogar e ler
+<b>Hobbies:</b> Jogar, ler e dependendo animes 
 </li>
 <li>
 <b>Personagens favoritos:</b> Piplup, Kirby e Sage (Valorant)
@@ -42,32 +45,76 @@
 <br><br><br><br>
 </div>
 
-<!--
+
 <div>
-<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
- <br>
-<p>
+<h2 align="center">            ~ :computer: 𝓗𝓪𝓫𝓲𝓵𝓲𝓭𝓪𝓭𝓮𝓼 :computer: ~</h2>
+  <p>
   <div align="center">
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+<img src="https://imgur.com/TyBZl9L.gif" width="200" height="300" align="left">
   </div>
 </div>
 <div>
   <br>
-<p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
-There are many more things, but this site doesn't have a Linux badge, 
-  so this will do for the meantime.
-</p>
+  <br>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white">
+    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/davinci_resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white">
+    <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
+    <img src="https://img.shields.io/badge/Tinkercad-%231477D1.svg?style=for-the-badge&logo=tinkercad&logoColor=white">
+  </p>
 <br>
+  <br>
 <br>
+
+<!--
 <div>
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<h2 align="center"> 𝓙á 𝓺𝓾𝓮 𝓶𝓮 𝓼𝓽𝓪𝓵𝓴𝓸𝓾 𝓪𝓽é 𝓪𝓺𝓾𝓲, 𝓿𝓸𝓽𝓮 𝓷𝓸 𝓼𝓮𝓾 𝓹𝓸𝓴𝓮𝓶𝓸𝓷 𝓯𝓪𝓿𝓸𝓻𝓲𝓽𝓸 </h2>
+  <div align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIycmcxOWxndzZzeWYxcWh1ZHJ2cGgzNWhubnlyaXRvd2hvejJibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WWGrmrMykMnja/giphy.gif" 
+  width="200" height="250" align="right">
+
+  </div>
+<li>
+ <b>Nome:</b> Amanda Jen</li>
+ <li>
+<b>Preferências:</b> Python, C/C++
+<li>
+<b>LinkedIn:</b> https://www.linkedin.com/in/amanda-jen-0a180b357/
+</li>
+<li>
+<b>Hobbies:</b> Jogar, ler e dependendo animes 
+</li>
+<li>
+<b>Personagens favoritos:</b> Piplup, Kirby e Sage (Valorant)
+</li>
+<br><br><br><br>
+</div>
+-->
+  
+<div>
+<h2 align="center"> ~ 𝓞𝓫𝓻𝓲𝓰𝓪𝓭𝓪 𝓹𝓸𝓻 𝓿𝓲𝓻! ~ </h2>
 <div align="center">
-<img src="https://i.imgur.com/tzYKRfd.gif">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnR2ZW43a3YyMXd0N2dydGluZ25uN2llMzQ0MHVwYWgybG1xanh1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AZST9vlkznqN9tQagD/giphy.gif">
 </div>
 <hr>
 </div>
 </div>
     </center>
 </body>
--->
+
