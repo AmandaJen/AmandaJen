@@ -2,6 +2,9 @@
 Para fontes:
 https://lingojam.com/FancyTextGenerator
 https://qaz.wtf/u/convert.cgi
+
+Para emojis:
+https://gist.github.com/rxaviers/7360908
 -->
 
 <body>
