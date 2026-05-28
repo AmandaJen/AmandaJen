@@ -32,6 +32,7 @@ https://gist.github.com/rxaviers/7360908
   width="200" height="250" align="right">
 
   </div>
+  <br>
 <li>
  <b>Nome:</b> Amanda Jen</li>
  <li>
@@ -43,8 +44,12 @@ https://gist.github.com/rxaviers/7360908
 <b>Hobbies:</b> Jogar, ler e dependendo animes 
 </li>
 <li>
-<b>Personagens favoritos:</b> Piplup, Kirby e Sage (Valorant)
+<b>Jogos:</b>
 </li>
+  <b>-Pokemons:</b> Legends: Arceus e Platinum
+  
+  <b>-Online:</b> R6, Overwatch, DBD e Valorant
+  
 <br><br><br><br>
 </div>
 
@@ -92,9 +97,11 @@ https://gist.github.com/rxaviers/7360908
     <p>
       https://forms.gle/kw168HCJofPueXc57
     </p>
-    <!-- POKEMON_POLL_START -->
-    <!-- POKEMON_POLL_END -->
-    </div>
+  <!-- POKEMON_POLL_START -->
+    
+  <!-- POKEMON_POLL_END -->
+    
+  </div>
 <br>
 </div>
   
