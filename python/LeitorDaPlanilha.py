@@ -1,6 +1,7 @@
 import pandas as pd
+import os
 
-CSV_URL = "LINK_PLANILHA"
+CSV_URL = os.environ["CSV_URL"]
 
 README_FILE = "README.md"
 
