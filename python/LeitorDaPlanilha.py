@@ -11,6 +11,9 @@ coluna = df.columns[-1]
 
 votos = df[coluna].value_counts()
 
+coluna = df.columns[-1]
+votos = df[coluna].value_counts()
+
 total = votos.sum()
 
 resultado = []
