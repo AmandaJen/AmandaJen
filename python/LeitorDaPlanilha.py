@@ -7,6 +7,10 @@ README_FILE = "README.md"
 
 df = pd.read_csv(CSV_URL)
 
+print("Quantidade de linhas:", len(df))
+print("Colunas:", df.columns.tolist())
+print(df.head())
+
 coluna = df.columns[-1]
 
 votos = df[coluna].value_counts()
