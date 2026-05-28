@@ -85,30 +85,16 @@ https://gist.github.com/rxaviers/7360908
   <br>
 <br>
 
-<!--
-<div>
-<h2 align="center"> 𝓙á 𝓺𝓾𝓮 𝓶𝓮 𝓼𝓽𝓪𝓵𝓴𝓸𝓾 𝓪𝓽é 𝓪𝓺𝓾𝓲, 𝓿𝓸𝓽𝓮 𝓷𝓸 𝓼𝓮𝓾 𝓹𝓸𝓴𝓮𝓶𝓸𝓷 𝓯𝓪𝓿𝓸𝓻𝓲𝓽𝓸 </h2>
-  <div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIycmcxOWxndzZzeWYxcWh1ZHJ2cGgzNWhubnlyaXRvd2hvejJibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WWGrmrMykMnja/giphy.gif" 
-  width="200" height="250" align="right">
 
-  </div>
-<li>
- <b>Nome:</b> Amanda Jen</li>
- <li>
-<b>Preferências:</b> Python, C/C++
-<li>
-<b>LinkedIn:</b> https://www.linkedin.com/in/amanda-jen-0a180b357/
-</li>
-<li>
-<b>Hobbies:</b> Jogar, ler e dependendo animes 
-</li>
-<li>
-<b>Personagens favoritos:</b> Piplup, Kirby e Sage (Valorant)
-</li>
-<br><br><br><br>
+<div>
+<h2 align="center"> 𝓙á 𝓺𝓾𝓮 𝓶𝓮 𝓼𝓽𝓪𝓵𝓴𝓸𝓾, 𝓿𝓸𝓽𝓮 𝓷𝓸 𝓼𝓮𝓾 𝓹𝓸𝓴𝓮𝓶𝓸𝓷 𝓯𝓪𝓿𝓸𝓻𝓲𝓽𝓸 </h2>
+  <div align="center">
+    <p>
+      https://forms.gle/kw168HCJofPueXc57
+    </p>
+    </div>
+<br>
 </div>
--->
   
 <div>
 <h2 align="center"> ~ 𝓞𝓫𝓻𝓲𝓰𝓪𝓭𝓪 𝓹𝓸𝓻 𝓿𝓲𝓻! ~ </h2>
