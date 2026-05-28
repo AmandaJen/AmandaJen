@@ -11,11 +11,8 @@ print("Quantidade de linhas:", len(df))
 print("Colunas:", df.columns.tolist())
 print(df.head())
 
-coluna = df.columns[-1]
+coluna = df.columns[-2]
 
-votos = df[coluna].value_counts()
-
-coluna = df.columns[-1]
 votos = df[coluna].value_counts()
 
 total = votos.sum()
