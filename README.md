@@ -98,8 +98,9 @@ https://gist.github.com/rxaviers/7360908
       https://forms.gle/kw168HCJofPueXc57
     </p>
   <!-- POKEMON_POLL_START -->
-    
-  <!-- POKEMON_POLL_END -->
+
+📊 Total de votos: 0
+<!-- POKEMON_POLL_END -->
     
   </div>
 <br>
