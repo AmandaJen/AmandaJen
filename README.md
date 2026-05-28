@@ -41,6 +41,8 @@
 </li>
 <br><br><br><br>
 </div>
+
+<!--
 <div>
 <h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
  <br>
@@ -68,3 +70,4 @@ There are many more things, but this site doesn't have a Linux badge,
 </div>
     </center>
 </body>
+-->
