@@ -27,7 +27,7 @@ for pokemon, quantidade in votos.items():
     barra = "█" * blocos + "░" * (20 - blocos)
 
     resultado.append(
-        f"{pokemon:<12} {barra} {porcentagem:.0%}"
+        f"{pokemon:<12} {barra} {porcentagem:.0%} <br>"
     )
 
 resultado.append("")
