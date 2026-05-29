@@ -91,6 +91,19 @@ https://gist.github.com/rxaviers/7360908
 <br>
 
 
+
+<br>
+</div>
+  
+<div>
+<h2 align="center"> ~ 𝓞𝓫𝓻𝓲𝓰𝓪𝓭𝓪 𝓹𝓸𝓻 𝓿𝓲𝓻! ~ </h2>
+<div align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnR2ZW43a3YyMXd0N2dydGluZ25uN2llMzQ0MHVwYWgybG1xanh1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AZST9vlkznqN9tQagD/giphy.gif">
+</div>
+<hr>
+</div>
+
+
 <div>
 <h2 align="center"> 𝓙á 𝓺𝓾𝓮 𝓶𝓮 𝓼𝓽𝓪𝓵𝓴𝓸𝓾, 𝓿𝓸𝓽𝓮 𝓷𝓸 𝓼𝓮𝓾 𝓹𝓸𝓴𝓮𝓶𝓸𝓷 𝓯𝓪𝓿𝓸𝓻𝓲𝓽𝓸 </h2>
   <div align="center">
@@ -105,16 +118,6 @@ Charmander (0004) ██████████░░░░░░░░░░ 5
 <!-- POKEMON_POLL_END -->
     
   </div>
-<br>
-</div>
-  
-<div>
-<h2 align="center"> ~ 𝓞𝓫𝓻𝓲𝓰𝓪𝓭𝓪 𝓹𝓸𝓻 𝓿𝓲𝓻! ~ </h2>
-<div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnR2ZW43a3YyMXd0N2dydGluZ25uN2llMzQ0MHVwYWgybG1xanh1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AZST9vlkznqN9tQagD/giphy.gif">
-</div>
-<hr>
-</div>
 </div>
     </center>
 </body>
