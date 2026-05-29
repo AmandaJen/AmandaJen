@@ -111,10 +111,11 @@ https://gist.github.com/rxaviers/7360908
       https://forms.gle/kw168HCJofPueXc57
     </p>
   <!-- POKEMON_POLL_START -->
-Piplup (0393) ██████████░░░░░░░░░░ 50% <br>
-Charmander (0004) ██████████░░░░░░░░░░ 50% <br>
+Piplup (0393) ██████░░░░░░░░░░░░░░ 33% <br>
+Charmander (0004) ██████░░░░░░░░░░░░░░ 33% <br>
+Pikachu (0025) ██████░░░░░░░░░░░░░░ 33% <br>
 
-📊 Total de votos: 2
+📊 Total de votos: 3
 <!-- POKEMON_POLL_END -->
     
   </div>
