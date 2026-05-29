@@ -98,7 +98,7 @@ https://gist.github.com/rxaviers/7360908
       https://forms.gle/kw168HCJofPueXc57
     </p>
   <!-- POKEMON_POLL_START -->
-amandajen1237@gmail.com ████████████████████ 100%
+Piplup (0393) ████████████████████ 100%
 
 📊 Total de votos: 1
 <!-- POKEMON_POLL_END -->
