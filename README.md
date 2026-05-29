@@ -98,9 +98,10 @@ https://gist.github.com/rxaviers/7360908
       https://forms.gle/kw168HCJofPueXc57
     </p>
   <!-- POKEMON_POLL_START -->
-Piplup (0393) ████████████████████ 100%
+Piplup (0393) ██████████░░░░░░░░░░ 50%
+Charmander (0004) ██████████░░░░░░░░░░ 50%
 
-📊 Total de votos: 1
+📊 Total de votos: 2
 <!-- POKEMON_POLL_END -->
     
   </div>
