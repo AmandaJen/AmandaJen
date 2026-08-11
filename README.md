@@ -111,13 +111,14 @@ https://gist.github.com/rxaviers/7360908
       https://forms.gle/kw168HCJofPueXc57
     </p>
   <!-- POKEMON_POLL_START -->
-Piplup (0393) ████░░░░░░░░░░░░░░░░ 20% <br>
-Charmander (0004) ████░░░░░░░░░░░░░░░░ 20% <br>
-Pikachu (0025) ████░░░░░░░░░░░░░░░░ 20% <br>
-Rayquaza (0384) ████░░░░░░░░░░░░░░░░ 20% <br>
-Charizard (0006) ████░░░░░░░░░░░░░░░░ 20% <br>
+Piplup (0393) ███░░░░░░░░░░░░░░░░░ 17% <br>
+Charmander (0004) ███░░░░░░░░░░░░░░░░░ 17% <br>
+Pikachu (0025) ███░░░░░░░░░░░░░░░░░ 17% <br>
+Rayquaza (0384) ███░░░░░░░░░░░░░░░░░ 17% <br>
+Charizard (0006) ███░░░░░░░░░░░░░░░░░ 17% <br>
+Umbreon (0197) ███░░░░░░░░░░░░░░░░░ 17% <br>
 
-📊 Total de votos: 5
+📊 Total de votos: 6
 <!-- POKEMON_POLL_END -->
     
   </div>
